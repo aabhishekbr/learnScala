@@ -1,6 +1,6 @@
 package Learnings
 
 object Lesson1 extends App {
-  println("Hello")
+  println("Hello and welcome to scala")//Use to print anything in scala
 
 }
